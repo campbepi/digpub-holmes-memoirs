@@ -1,10 +1,10 @@
 p{
     font-family: sans-serif;
+    text-indent: 3%;
 }
 h3{
     font-family: sans-serif;
     text-align: center;
-    ;
 }
 .letter-address {
     text-align: right;
@@ -13,5 +13,6 @@ h3{
     text-align: right;
 }
 img {
-    width: 30%;
+    width: 50%;
+    margin: 0 20% 0 20%;
 }
